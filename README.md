@@ -91,5 +91,5 @@ The app uses the `Provider` package for efficient state management, keeping user
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/stanbic-banking-app.git
-   cd stanbic-banking-app
+   git clone https://github.com/annmarieakuba/banking_app.git
+   cd banking_app
